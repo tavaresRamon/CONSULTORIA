@@ -12,14 +12,9 @@ Os dados são fictícios, gerados para ilustrar um cenário hipotético com uma 
 - **Notebooks:** Códigos em Python utilizados na análise.
 - **Relatório:** Arquivo LaTeX do relatório descritivo.
 
-## Resultados Destacados
-
-- **Frequência do Sexo:** Predominância de funcionárias do sexo feminino (62.62%).
-- **Frequência da Escolaridade:** Maioria com graduação (50.07%).
-
 ## Como Reproduzir
 
-1. Clone o repositório: `(https://github.com/tavaresRamon/CONSULTORIA/blob/main/ANALISEDESCRITIVACONSULTORIA.ipynb)`
+1. Clone o repositório: `https://github.com/tavaresRamon/CONSULTORIA/blob/main/ANALISEDESCRITIVACONSULTORIA.ipynb`
 2. Execute o código em um ambiente Python.
 
 Este é um projeto fictício utilizado para demonstrar habilidades em análise de dados. Os dados e resultados são fictícios.
