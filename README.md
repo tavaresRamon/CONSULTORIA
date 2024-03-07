@@ -17,4 +17,4 @@ Os dados são fictícios, gerados para ilustrar um cenário hipotético com uma 
 1. Clone o repositório: `https://github.com/tavaresRamon/CONSULTORIA/blob/main/ANALISEDESCRITIVACONSULTORIA.ipynb`
 2. Execute o código em um ambiente Python.
 
-Este é um projeto fictício utilizado para demonstrar habilidades em análise de dados. Os dados e resultados são fictícios.
+Este é um projeto com dados fictício utilizado para demonstrar habilidades em análise de dados. Os dados e resultados são fictícios.
